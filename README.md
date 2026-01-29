@@ -11,6 +11,7 @@ What we saw in the Alforithm Theory class
 
 -Finalmente nos dio el primer *TEOREMA*: 
 
- *Una condición necesaria para que exista emparejamiento en que para todo  A \subseteq X \quad \text{y} \quad |A(x)| \leq |N(A(x))|
+ *Una condición necesaria para que exista emparejamiento en que para todo A \subseteq X \;\text{y}\; \forall x \in A,\; |A(x)| \leq |N(A(x))|
+
 
 
