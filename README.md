@@ -15,7 +15,7 @@ What we saw in the Alforithm Theory class
 $\forall A \subseteq X,\; |A| \leq |N(A)|$*
 
 * La grafica $G$ 
-* La formula $$a=\frac{B}{C}$$
-* Una funcion $f(n)$ en $O(n)$ se existe C tal que $$|f(n)<|n|$$
+* La formula $$ a=\frac{B}{C} $$
+* Una funcion $f(n)$ en $O(n)$ se existe C tal que $$ |f(n)<|n| $$
 
 
