@@ -14,6 +14,7 @@ What we saw in the Alforithm Theory class
 * Una condición necesaria para que exista un emparejamiento es que
 $\forall A \subseteq X,\; |A| \leq |N(A)|$*
 
-
+* La grafica $G$ 
+* La formula $$a=\frac{B}{C}$$
 
 
